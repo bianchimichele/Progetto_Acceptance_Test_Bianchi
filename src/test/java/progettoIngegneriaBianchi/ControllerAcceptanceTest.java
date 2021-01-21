@@ -1,4 +1,4 @@
-package AcceptanceTest;
+package progettoIngegneriaBianchi;
 
 import net.sourceforge.jwebunit.junit.WebTester;
 import org.junit.After;
